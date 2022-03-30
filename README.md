@@ -1,2 +1,2 @@
 # Password-Generation
-Simple Password Generation Module
+Simple C# Password Generation Module Utalizing Letters, Numbers And Symbols
